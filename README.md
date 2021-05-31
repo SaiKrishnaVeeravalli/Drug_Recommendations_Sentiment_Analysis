@@ -23,7 +23,7 @@
   This Drug Review dataset is taken from UCI ML Repository, for more info check: https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
 
 ## Prediction Metric
-  Recall
+  F1 score
   
 ## Project Outcome
   Top 3-5 drug recommendations for an ailment
