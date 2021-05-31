@@ -64,15 +64,16 @@
   * Rating column data is converted in to binary .(1 if rating > 5 and 0 if rating < 5, now this is a classification problem)  
 
 ## Model Building
-
+  *
 
 ## Predictions
-
+  * Finally top - 5 drugnames are predicted for a given ailment.
 
 ## Challenges Faced
   * Models may perfom even better if more info like Age of patient, severity of condition, etc are given
 
 ## Future Improvements
   * Deep Learning models may be used to reduce the Type - II errors.
+  * User interface can be created and continuous feedback from users can be used to improve the model predictions.
 
 
