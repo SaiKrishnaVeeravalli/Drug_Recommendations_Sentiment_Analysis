@@ -64,7 +64,10 @@
   * Rating column data is converted in to binary .(1 if rating > 5 and 0 if rating < 5, now this is a classification problem)  
 
 ## Model Building
-  *
+  * Two separate models are built -
+    1. using all the extracted features
+    2. n-gram model using review column
+  * final results are ordered using usefulcount.
 
 ## Predictions
   * Finally top - 5 drugnames are predicted for a given ailment.
