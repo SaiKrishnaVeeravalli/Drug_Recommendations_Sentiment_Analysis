@@ -9,7 +9,7 @@
 - sklearn
 - textblob
 - Wordcloud
-- ntlk
+- nltk
 - xgboost
 - lightgbm  
 - spacy
